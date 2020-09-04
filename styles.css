@@ -1,0 +1,18 @@
+.pageHeader {
+    text-align: center;
+}
+
+.span:hover {
+    border: 5px;
+    
+    background-color: mediumaquamarine;
+}
+
+.carDiv {
+    border: 10px;
+    border-color: lightslategray;
+    background-color: lightgreen;
+    text-align: center;
+    padding-top: 10px;
+    
+}
